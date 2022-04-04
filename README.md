@@ -19,10 +19,10 @@ THEN the game is over
 WHEN the game is over
 THEN I can save my initials and score
 ```
-##Screenshot
+## Screenshot
 ![Coding Quiz screenshot](https://user-images.githubusercontent.com/98886625/161600535-14f95ebf-e5fa-4121-a99f-027b964efd04.png)
 
 
-##Deployed Page
+## Deployed Page
 Page published at: https://kylejeffreygeary.github.io/Coding-Quiz/index.html
 GitHub Repo: https://github.com/KyleJeffreyGeary/Coding-Quiz
